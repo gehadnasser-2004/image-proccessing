@@ -1,4 +1,4 @@
-#!/mnt/vol_d/CUFE/3rd_Year/1st_term/Image_Processing/assignments/image-proccessing/.venv/bin/python3
+#!/mnt/vol_d/CUFE/3rd_Year/1st_term/Image_Processing/assignments/Image-proccessing/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
